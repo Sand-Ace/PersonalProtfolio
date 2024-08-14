@@ -40,6 +40,11 @@
 }
 
 
+.active {
+    display: block;
+}
+
+
 /* Media queries template component */
 
 /* xs */

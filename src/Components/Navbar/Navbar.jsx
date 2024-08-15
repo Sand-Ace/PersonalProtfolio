@@ -23,7 +23,7 @@ export default function Navbar() {
         <nav className="main-nav">
           <ul className="nav-item">
             <li>
-              <a href="#home" className="main-nav-link">
+              <a href="/" className="main-nav-link">
                 Home
               </a>
             </li>
@@ -53,13 +53,13 @@ export default function Navbar() {
         <div className="hamburger-cta">
           {isActive ? (
             <XMarkIcon
-              width={20}
+              width={30}
               onClick={handleClickSubMenu}
               className="hamMenu"
             />
           ) : (
             <Bars3BottomRightIcon
-              width={20}
+              width={30}
               onClick={handleClickSubMenu}
               className="hamMenu"
             />

@@ -44,6 +44,16 @@
     display: block;
 }
 
+/* grid */
+
+.grid {
+    display: grid;
+}
+
+.grid-col-3 {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
 
 /* Media queries template component */
 

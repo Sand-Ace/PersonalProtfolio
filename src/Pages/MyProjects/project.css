@@ -1,0 +1,10 @@
+.section-project {
+    padding: 4.4rem 0 0 0;
+    position: relative;
+    background-color: var(--White);
+}
+
+.project-container {
+    padding: 0 9.8rem;
+    /* text-align: center; */
+}

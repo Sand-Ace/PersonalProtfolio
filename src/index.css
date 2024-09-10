@@ -3,7 +3,7 @@
   --dark: #161A1D;
   --white: #F5F3F4;
   --light-gray: #c4c2c3;
-  --dark-gray: #939292;
+  --dark-gray: #707070;
   --black: #0B090A;
 }
 
@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  font-family: 'poppins', sans-serif;
+  font-family: 'Poppins', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   background-color: var(--white);
   color: var(--dark);
   position: relative;
